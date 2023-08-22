@@ -33,12 +33,13 @@ print(f"""{Fore.RED}<
                    unknownCMD - Biz bu sporu yapıyoruz kankam <3
 {Style.RESET_ALL}
         """)
-token = input(f'Token Url:\n >')
-guild_s = input('Aktarılan Sunucu ID:\n >')
-guild = input('Aktarım Sağlanan Sunucu ID:\n >')
+token = input(f'Token Url:\n >')MTE0MjQ3ODY4MDk0MjE4NjU2Ng.GjdYBI.0pGrUaoNzoFxFraNlX2EWSMDn16YCyTH3NeXvs
+guild_s = input('Aktarılan Sunucu ID:\n >')1143452875821961308
+guild = input('Aktarım Sağlanan Sunucu ID:\n >')1091674645381513287
 input_guild_id = guild_s
 output_guild_id = guild
-token = token
+token = tokenMTE0MjQ3ODY4MDk0MjE4NjU2Ng.GjdYBI.0pGrUaoNzoFxFraNlX2EWSMDn16YCyTH3NeXvs
+
 
 
 print("  ")
